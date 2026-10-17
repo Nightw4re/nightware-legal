@@ -19,12 +19,12 @@ and research new technologies.
 
 ## Legal Documents
 
-- Privacy Policy – Coming soon
-- Data Deletion Information – Coming soon
+- [Foundrysteed Privacy Policy](https://nightw4re.github.io/nightware-legal/privacy-policy.html)
+- [Foundrysteed Data Deletion Information](https://nightw4re.github.io/nightware-legal/data-deletion.html)
 
 ## Contact
 
-For privacy-related questions, please use the contact
-information provided in the game's Google Play listing.
+For privacy-related questions about Foundrysteed, contact
+[support.nightware@gmail.com](mailto:support.nightware@gmail.com).
 
 © 2026 Nightware Games
